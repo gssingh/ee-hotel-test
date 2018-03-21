@@ -18,8 +18,6 @@ Feature: Acceptance test for creating bookings
     | William   | Smith    | 450        | true          | 2018-07-01 | 2018-07-03 |
     | Jack      | Jones    | 350        | false         | 2019-01-01 | 2019-01-02 |
 
-  #
-
 
 
 
